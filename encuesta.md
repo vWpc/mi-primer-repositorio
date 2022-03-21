@@ -1,0 +1,1 @@
+Mis expectativas con la materias son poder aprender a programar orientado a objetos con el lenguaje de programacion python y lograr hacer un api web fullstack.
